@@ -3,9 +3,10 @@
 <img src="https://avatars.githubusercontent.com/u/59238478?v=4" height="110" style="border-radius:10%; margin: 0 12px 0 0" align="left">
 
 **Name:** Mukhammadyusuf Abdurakhimov
+
 **Title:** Junior Software Engineer
-**Company:** EPAM Systems
-<img src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png" height="64">
+
+<img src="./techs/epam.svg" height="16px">
 
 #### Personal achivements:
 
