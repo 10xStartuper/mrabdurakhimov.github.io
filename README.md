@@ -17,7 +17,9 @@
 ## Contacts
 
 **Phone:** +998932499099
+
 **Email:** icoderx@yandex.ru
+
 **LinkedIn:** https://linkedin.com/in/mrabdurakhimov
 
 ## Languages and tools
