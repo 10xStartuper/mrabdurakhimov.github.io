@@ -8,68 +8,107 @@
 
 <img src="./techs/epam.svg" height="16px">
 
-#### Personal achivements:
 
-✅ UNDP Award of best Startup of 2021 <br>
-✅ Most Active Student of 2020 <br>
-✅ Succesful participant of multiple local and global Hackathons of 2020 - 2021 ranking 1st, 2nd and 3rd places.
+# Welcome!
 
-## Contacts
+> The standards behind my objective in life are never stopping to develop and keeping my skills updated with the most recent advances in Technology.
+> I'm extremely enthusiastic about what I do because we, Software Engineers, assemble and convey new innovations that can make the world a superior spot for humankind.
 
-**Phone:** +998932499099
+Inspired to make changes happen.
 
-**Email:** icoderx@yandex.ru
+<details>
+  <summary>
+    <b>About me</b>
+   </summary>
+  <br/>
+  
+- 19/20 y.o. Self-taught Software Engineer from Uzbekistan
+- Currently working at [@EPAM](https://github.com/epam)
+- Avid Reader
+- Innovator
+- Collage dropout
 
-**LinkedIn:** https://linkedin.com/in/mrabdurakhimov
+</details>
 
-## Languages and tools
 
-#### Programming languages:
+## Skills
 
-<img align="left" alt="JavaScript" height="26px" src="./techs/javascript.svg" />
-<img align="left" alt="golang" height="26px" src="./techs/golang.svg" />
-<img align="left" alt="python" height="26px" src="./techs/python.svg" />
-<img align="left" alt="C++" height="26px" src="./techs/c++.svg" />
-<br>
+Here are list of the skills I have experience with.
 
-#### IDE
+<details>
+  <summary>
+    FrontEnd
+  </summary>
+  <br/>
+  - HTML5
+  - CSS3
+  - SASS
+  - Bootstrap[4/5]
+  - JQuery
+  - JavaScript (ES6)
+  - TypeScript
+  - Parcel
+  - Webpack
+  - ReactJS
+  - NextJS
+  - React Router DOM
+  - Styled-components
+  - Material UI
+  - Tailwindcss
+  - etc.
+</details>
 
-<img align="left" alt="Visual Studio Code" height="24px" src="./techs/vs-code.svg" />
-<img align="left" alt="Webstrom" height="26px" src="./techs/webstorm.svg" />
-<img align="left" alt="Webstrom" height="26px" src="./techs/clion.svg" />
-<img align="left" alt="IntelliJ IDEA" height="26px" src="./techs/intellij.svg" />
-<img align="left" alt="Vim" height="24px" src="./techs/vim.svg" />
-<!-- <img align="left" alt="Vim" height="26px" src="./techs/vim.svg" /> -->
-<br>
+<details>
+  <summary>
+    Backend
+  </summary>
+<br/>
+  - Nodejs
+  - Express
+  - JavaScript
+  - TypeScript
+  - Mikro-ORM
+  - MongoDB/Mongoose  
+  - PostgreSQL
+  - GraphQL
+  - MVC Pattern
+  - etc.
 
-#### Frontend
+</details>
 
-<img align="left" alt="HTML" height="26px" src="./techs/html.svg" alt="html" />
-<img align="left" alt="CSS" height="26px" src="./techs/css.svg" />
-<img align="left" alt="CSS" height="26px" src="./techs/javascript.svg" />
-<img align="left" alt="Sass" height="24px" src="./techs/sass.svg" />
-<img align="left" alt="Bootstrap" height="24px" src="./techs/bootstrap.svg" />
-<img align="left" alt="react" height="24px" src="./techs/react.svg" />
-<img align="left" alt="react" height="24px" src="./techs/redux.svg" />
-<img align="left" alt="NextJS" width="24px" src="./techs/nextjs.svg" />
-<img align="left" alt="Tailwind" height="20px" src="./techs/tailwind.svg" />
-<br>
+<details>
+  <summary>
+    Mobile(novice):
+  </summary>
+  <br/>
+  - React-Native
+  - Expo 
+</details>
 
-#### Backend
+<details>
+  <summary>
+    UI/UX Design
+  </summary>
+  <br/>
+  - Figma
+  - Adobe XD
+  - Prototyping
+  - Wireframing
+  - Product developmnent
+  - etc.
+</details>
 
-<img align="left" alt="NodeJS" height="26px" src="./techs/node-js.svg" />
-<img align="left" alt="GraphQL" height="26px" src="./techs/graphql.svg" />
-<img align="left" alt="MongoDB" height="26px" src="./techs/mongodb.svg" />
-<img align="left" alt="PostgreSQL" height="26px" src="./techs/postgres.svg" />
-<img align="left" alt="express" height="26px" src="./techs/express.svg" />
+<details>
+  <summary>
+   GitHub Stats
+  </summary>
+  <br/>
+  <div display="flex">
+  <p>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=mrabdurakhimov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabdurakhimov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  </p>
+</div>
+</details>
 
-<br>
 
-#### Other tools
-
-<img align="left" alt="Powershell" height="26px" src="./techs/powershell.svg" />
-<img align="left" alt="Git" height="26px" src="./techs/git.svg" />
-<img align="left" alt="GitHub" height="26px" src="./techs/github.svg" />
-<img align="left" alt="Heroku" height="26px" src="./techs/heroku.svg" />
-<img align="left" alt="AWS Lambda" height="26px" src="./techs/aws.svg" />
-<img align="left" alt="Jira" height="26px" src="./techs/jira.svg" />
