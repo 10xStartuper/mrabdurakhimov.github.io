@@ -4,7 +4,7 @@
 
 **Name:** Mukhammadyusuf Abdurakhimov
 
-**Title:** Junior Software Engineer
+**Title:** Software Engineer
 
 <img src="./techs/epam.svg" height="16px">
 
